@@ -69,6 +69,10 @@ p {
   transition: border-color 0.5s ease;
 }
 
+#press img:hover {
+  
+}
+
 footer {
   text-align: right;
 }
