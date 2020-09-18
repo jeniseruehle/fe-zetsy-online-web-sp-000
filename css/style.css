@@ -64,7 +64,12 @@ p {
 }
 
 footer {
+  text-align: right;
+}
+
+footer p {
   color: #555;
-  font-size: 1em;
+  font-size: 0.5em;
+  margin: 0 0 20px 0;
 }
 
