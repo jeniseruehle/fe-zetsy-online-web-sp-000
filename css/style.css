@@ -63,7 +63,10 @@ p {
   margin-inline-end: 0px;
 }
 
-#press img
+#press img {
+  border: 5px #ccc solid;
+  padding: 1px;
+}
 
 footer {
   text-align: right;
